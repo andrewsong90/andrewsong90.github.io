@@ -7,9 +7,9 @@ subtitle: Postdoctoral fellow @ Brigham and Women's Hospital/Harvard Medical Sch
 profile:
   align: right
   image: prof.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>asong [at] bwh.harvard.edu</p>
+    <p>asong@bwh.harvard.edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
