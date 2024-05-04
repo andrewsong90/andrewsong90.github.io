@@ -6,10 +6,10 @@ subtitle: Postdoctoral fellow @ Brigham and Women's Hospital/Harvard Medical Sch
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>asong [at] bwh [dot] harvard [dot] edu</p>
+    <p>asong [at] bwh.harvard.edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a postdoctoral research fellow at Brigham and Women's Hospital/Harvard medical school, working with Professor Faisal Mahmood. My current research interests are 1) 3D and 2D computational pathology, 2) Multimodal deep learning, and 3) Biomedical signal processing.
 
-I received Ph.D. from Massachusetts Institute of Technology (MIT) Electrical Engineering and Computer Science (EECS), co-advised by Professors Emery N. Brown (MIT) and Demba Ba (Harvard). I was a member of Neuroscience Statistics Research Laboratory (NSRL) @ MIT and Computation, Representation, Inference in Signal Processing (CRISP) group @ Harvard. I also have Bachelor’s & M.Eng. degrees, all in EECS, from MIT.  I served in Republic of Korea Army for two years, during which I worked as a UN peacekeeping force in Lebanon (UNIFIL) for a year.
+I received Ph.D. from Massachusetts Institute of Technology (MIT) Electrical Engineering and Computer Science (EECS), co-advised by Professors Emery N. Brown (MIT) and Demba Ba (Harvard). I also have Bachelor’s & M.Eng. degrees, all in EECS, from MIT.  I served in Republic of Korea Army for two years, during which I worked as a UN peacekeeping force in Lebanon (UNIFIL) for a year.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
