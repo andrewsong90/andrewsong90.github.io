@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-10-02 11:00:00-0400
+date: 2022-08-18 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
 
-Our [review](https://rdcu.be/dnxkb) on AI for digital and computational pathology is published **Nature Reviews Bioengineering**.
+Our [News & Views](https://www.nature.com/articles/s41551-022-00924-z) on importance of context for prognostic tasks is published in **Nature Biomedical Engineering**.
