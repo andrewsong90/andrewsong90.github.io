@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral fellow @ Brigham and Women's Hospital/Harvard Medical School
 
