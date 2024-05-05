@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A study investigating demographic bias in pathology is published in **Nature Medicine**.
+Our [study](https://rdcu.be/dFdMS) investigating demographic bias in pathology is published in **Nature Medicine**.

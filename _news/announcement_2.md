@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our review article on AI for digital and computational pathology is published **Nature Reviews Bioengineering**.
+Our [review](https://rdcu.be/dnxkb) on AI for digital and computational pathology is published **Nature Reviews Bioengineering**.
