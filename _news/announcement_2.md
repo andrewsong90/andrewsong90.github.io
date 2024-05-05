@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-03-15 11:00:00-0400
+date: 2023-10-02 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
-UNI, a foundation model for histopathology is published in **Nature Medicine**.
+
+Our review article on AI for digital and computational pathology is published **Nature Reviews Bioengineering**.

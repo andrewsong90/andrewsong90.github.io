@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-10-02 11:00:00-0400
+date: 2022-01-03 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
 
-Our review article on AI for digital and computational pathology is published **Nature Reviews Bioengineering**.
+I started my postdoc with Professor Faisal Mahmood at Brigham and Women's Hospital.
