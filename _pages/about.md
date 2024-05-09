@@ -20,6 +20,7 @@ I am currently a postdoctoral research fellow at Brigham and Women's Hospital/Ha
 
 Previously, I received Ph.D. from Massachusetts Institute of Technology (MIT) Electrical Engineering and Computer Science (EECS) with a focus on neural signal processing, co-advised by Professors [Emery N. Brown](https://picower.mit.edu/emery-n-brown) (MIT) and [Demba Ba](https://crisp.seas.harvard.edu/index.html) (Harvard). I also have Bachelor’s & M.Eng. degrees, all in EECS, from MIT.  I served in Republic of Korea Army for two years, during which I worked as a UN peacekeeping force in Lebanon (UNIFIL) for a year.
 
+[[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)]
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
