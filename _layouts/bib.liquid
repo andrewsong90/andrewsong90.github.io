@@ -207,6 +207,12 @@
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
       {% endif %}
+      {% if entry.github %}
+        <a href="{{ entry.github }}" class="btn btn-sm z-depth-0" role="button">Github</a>
+      {% endif %}
+      {% if entry.press %}
+        <a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button">Press</a>
+      {% endif %}
       {% if entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
