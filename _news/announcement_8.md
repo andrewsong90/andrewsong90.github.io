@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[MMP](https://openreview.net/pdf?id=3MfvxH3Gia), A multimodal survival prediction framework, will appear in **ICML 2024**.
+[MMP](https://openreview.net/pdf?id=3MfvxH3Gia), a multimodal survival prediction framework, will appear in **ICML 2024**.
