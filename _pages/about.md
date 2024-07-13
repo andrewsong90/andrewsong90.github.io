@@ -6,7 +6,7 @@ subtitle: Postdoctoral fellow @ Brigham and Women's Hospital/Harvard Medical Sch
 
 profile:
   align: right
-  image: prof.png
+  image: prof.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>asong@bwh.harvard.edu</p>
@@ -17,6 +17,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 [[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)]
+
+**I am on the 2024-2025 academic job market.**
 
 I am currently a postdoctoral research fellow in the Department of Pathology at Brigham and Women's Hospital/Harvard medical school, working with Professor [Faisal Mahmood](https://faisal.ai/). My current research interests are (1) 3D computational pathology, (2) Multimodal deep learning in pathology, and (3) Biomedical signal processing.
 
