@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[HEST-1k](https://github.com/mahmoodlab/HEST)**\\
-a histology-ST dataset & benchmark, has been released
+[HEST-1k](https://github.com/mahmoodlab/HEST), a histology-ST dataset & benchmark, has been released
