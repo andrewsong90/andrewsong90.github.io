@@ -8,7 +8,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-(*): Co-first authorship
+(*): Co-first authorship, (+): Co-second authorship
 
 {% bibliography %}
 
