@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[UNI](https://t.co/lE3cYSUJoY), a foundation model for histopathology is published in **Nature Medicine**.
+[UNI](https://www.nature.com/articles/s41591-024-02857-3), a foundation model for histopathology is published in **Nature Medicine**.
