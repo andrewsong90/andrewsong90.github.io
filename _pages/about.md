@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)]
+[[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)] (Updated: Aug. 2025)
 
 **I am on the 2024-2025 academic job market.**
 
