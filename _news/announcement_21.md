@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am thrilled to announce that I will be starting as an assistant professor of Department of Translational Molecular Pathology/Institute of Data Science in Oncoloty at MD Anderson Cancer Center!
+I am thrilled to announce that I will be starting as an tenure-track assistant professor in Department of Translational Molecular Pathology/Institute of Data Science in Oncoloty at MD Anderson Cancer Center!
