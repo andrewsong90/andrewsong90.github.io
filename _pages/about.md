@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)] (Updated: Sept. 2025)
+[[Curriculum Vitae](/assets/pdf/Andrew_Resume_latest.pdf)] (Updated: Oct. 2025)
 
 **I will start my lab at Department of Translational Molecular Pathology & Institute of Data Science in Oncology at MD Anderson Cancer Center in Jan. 2026!!! Official recruitment posting for postdocs and graduate students will be made soon, so stay tuned.**
 
