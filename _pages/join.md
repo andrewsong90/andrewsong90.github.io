@@ -8,7 +8,7 @@ nav_order: 3
 
 We are always looking for talented and highly-motivated colleagues of all levels to join the Song lab (starting in January of 2026). The research group is part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s [Department of Translational Molecular Pathology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/translational-molecular-pathology.html) and [The Institute for Data Science in Oncology](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html).
 
-Please follow the instructions and send additional requested materials to andrewsong90@gmail.com. <br>Due to the high number of emails from prospective students, I won't be able to reply to all emails.
+Please follow the instructions and send additional requested materials to **andrewsong90 [at] gmail [dot] com**. Due to the high number of emails from prospective students, I won't be able to reply to all emails.
 
 <h3>Research agenda</h3>
 
