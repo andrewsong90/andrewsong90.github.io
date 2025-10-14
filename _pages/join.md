@@ -36,11 +36,11 @@ To be officially considered as a postdoctoral fellow candidate, please apply to 
 
 For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please visit [here](https://gsbs.uth.edu/about/index.htm) and apply to the program. 
 
-(**IMPORTANT**) In addition to submitting the application, please email the following. 
+(**IMPORTANT**) In addition to submitting the application, please get in touch with me in advance, with the following materials! 
 
-(1) Cover letter on the candidate’s research interest, career goals, and how this can align new research lab direction. <br>
+(1) A concise cover letter on the candidate’s research interest, career goals, and how this can align new research lab direction. <br>
 (2) CV with reference to Github/Hugging Face repository (if available).<br>
-(3) Email address for three references.
+(3) Email address for two ~ three references (if available).
 
 Stay tuned — opportunities for Rice University Ph.D. students will be announced in the near future.
 
