@@ -26,7 +26,7 @@ To be officially considered as a postdoctoral fellow candidate, please apply to 
 
 (**IMPORTANT**) In addition to submitting the application, please email the following.
 
-(1) Cover letter on the candidate’s research interest, career goals, and how this can align with Dr. Song’s new research lab direction. <br>
+(1) Cover letter on the candidate’s research interest, career goals, and how this can align with Dr. Song’s new research lab direction  (2 pages max). <br>
 (2) CV with reference to Github/Hugging Face repository (if available).<br>
 (3) 2~3 representative publications, with concise description of the candidate’s contribution to each.<br>
 (4) Email address for three references.
@@ -38,7 +38,7 @@ For prospective graduate students interested in The University of Texas MD Ander
 
 (**IMPORTANT**) In addition to submitting the application, please email the following. 
 
-(1) Cover letter on the candidate’s research interest, career goals, and how this can align new research lab direction (2 pages max). <br>
+(1) Cover letter on the candidate’s research interest, career goals, and how this can align new research lab direction. <br>
 (2) CV with reference to Github/Hugging Face repository (if available).<br>
 (3) Email address for three references.
 
