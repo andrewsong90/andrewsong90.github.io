@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-12-22 11:00:00-0400
+inline: true
+related_posts: false
+---
+
+I will be an adjunct professor at **Rice University** CS program! Prospective graduate students interested who wants to be advised by me should apply to [Ph.D. program](https://csweb.rice.edu/academics/graduate-programs/phd-program) by 1/1/2026. Current Rice graduate and undergraduate students interested in joining my lab should reach out to me directly.

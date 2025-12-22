@@ -32,11 +32,13 @@ To be officially considered as a postdoctoral fellow candidate, please apply to 
 (4) Email address for three references.
 
 
-<h3>:pencil2: Graduate students</h3>
+<h3>:pencil2: Prospective Graduate students</h3>
 
-For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please visit [here](https://gsbs.uth.edu/about/index.htm) and apply to the program. 
+(**MD Anderson**): For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please visit [here](https://gsbs.uth.edu/about/index.htm) and apply to the program. 
 
-(**IMPORTANT**) In addition to submitting the application, please get in touch with me in advance, with the following materials! 
+(**Rice CS**): Graduate students at Rice University CS program can also be advised by me. Plese visit [here](https://csweb.rice.edu/academics/graduate-programs/phd-program) and apply to the program by 1/1/2026.
+
+In addition to submitting the application, please get in touch with me in advance, with the following materials! 
 
 (1) A concise cover letter on the candidate’s research interest, career goals, and how this can align new research lab direction. <br>
 (2) CV with reference to Github/Hugging Face repository (if available).<br>
@@ -44,6 +46,8 @@ For prospective graduate students interested in The University of Texas MD Ander
 
 Stay tuned — opportunities for Rice University Ph.D. students will be announced in the near future.
 
+<h3>:pencil2: Current Graduate students</h3>
+If you are already a Ph.D./Masters student at MD Anderson GSBS or Rice University and interested in joining the lab, please reach out to me with the materials mentioned above.
 
 <h3>:pencil2: Undergraduate students</h3>
 Currently, we are recruiting motivated undergraduate students with computational background from Rice University. In your email, please explain what projects you have worked on in the past, what courses you have liked the most so far, and what topics you are interested in working on. Please include your CV and transcript.
