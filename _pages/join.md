@@ -36,7 +36,7 @@ To be officially considered as a postdoctoral fellow candidate, please apply to 
 
 (**MD Anderson**): For prospective graduate students interested in The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, please visit [here](https://gsbs.uth.edu/about/index.htm) and apply to the program. 
 
-(**Rice CS**): Graduate students at Rice University CS program can also be advised by me. Plese visit [here](https://csweb.rice.edu/academics/graduate-programs/phd-program) and apply to the program by 1/1/2026.
+(**Rice CS**): Graduate students at Rice University CS program can also be advised by me. Plese visit [here](https://csweb.rice.edu/academics/graduate-programs/phd-program) and apply to the program by 1/1/2026. Indicate in your SOP that you want to be advised by me.
 
 In addition to submitting the application, please get in touch with me in advance, with the following materials! 
 
