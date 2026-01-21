@@ -6,9 +6,9 @@ nav: true
 nav_order: 3
 ---
 
-We are always looking for talented and highly-motivated colleagues of all levels to join the Song lab (starting in January of 2026). The research group is part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s [Department of Translational Molecular Pathology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/translational-molecular-pathology.html) and [The Institute for Data Science in Oncology](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html).
+We are always looking for talented and highly-motivated colleagues with computational background of all levels to join the Song lab. The research group is part of [MD Anderson Cancer Center](https://www.mdanderson.org/)'s [Department of Translational Molecular Pathology](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/translational-molecular-pathology.html) and [The Institute for Data Science in Oncology](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html).
 
-Please follow the instructions and send additional requested materials to **andrewsong90 [at] gmail [dot] com**. Due to the high number of emails from prospective students, I won't be able to reply to all emails.
+Please follow the instructions and send additional requested materials to **asong2 [at] mdanderson [dot] org**. Rice graduate and undergraduate students should send the request materials to **asong [at] rice [dot] edu**. Due to the high number of emails from prospective trainees, I won't be able to reply to all emails.
 
 <h3>Research agenda</h3>
 
@@ -44,7 +44,6 @@ In addition to submitting the application, please get in touch with me in advanc
 (2) CV with reference to Github/Hugging Face repository (if available).<br>
 (3) Email address for two ~ three references (if available).
 
-Stay tuned — opportunities for Rice University Ph.D. students will be announced in the near future.
 
 <h3>:pencil2: Current Graduate students</h3>
 If you are already a Ph.D./Masters student at MD Anderson GSBS or Rice University and interested in joining the lab, please reach out to me with the materials mentioned above.
