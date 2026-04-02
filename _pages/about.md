@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[[Curriculum Vitae](/assets/pdf/Andrew_H_Song_CV.pdf)] (Updated: Jan. 2026)
+[[Curriculum Vitae](/assets/pdf/Andrew_H_Song_CV.pdf)] (Updated: Mar. 2026)
 
 **I am recruiting talented and motivated computational researchers to join my lab as a postdoctoral fellow or graduate student. Please check this [link](https://andrewsong90.github.io/join/) for joining our lab.**
 
